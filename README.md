@@ -32,10 +32,7 @@
 
 Запустите скрипт:
 ```bash
-python crypto_domain_scanner.py
-
-
-
+*python crypto_domain_scanner.py*
 
 
 
