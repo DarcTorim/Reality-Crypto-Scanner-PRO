@@ -35,6 +35,14 @@
 python crypto_domain_scanner.py
 
 
+
+
+
+
+
+
+
+
 🤝 Вклад в проект Приветствуются: 🐛 Отчёты об ошибках 💡 Предложения по улучшению 🔧 Pull Request'ы с исправлениями 📚 Улучшение документации
 
 📞 Контакты Автор: [DarcTorim] Email: [korobchenko.artjom@yandex.ru] GitHub: @DarcTorim ⭐ Поддержка проекта Если проект оказался полезным, поставьте звезду на GitHub! ⭐
