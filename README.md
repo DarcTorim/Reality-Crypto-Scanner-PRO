@@ -20,15 +20,9 @@
 *   Python 3.8+
 *   Библиотеки: `openpyxl`, `colorama`
 
- 🛠 Установка
+ 🛠 Установка 
 
-1.  Клонируйте репозиторий:
-    ```bash
-    git clone https://github.com/ВАШ_НИК/reality-scanner.git
-    cd reality-scanner
-    ```
-
-2.  Установите зависимости:
+1.  Установите зависимости:
     ```bash
     pip install -r requirements.txt
     ```
