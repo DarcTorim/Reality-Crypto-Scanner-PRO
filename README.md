@@ -20,25 +20,6 @@
 *   Python 3.8+
 *   Библиотеки: `openpyxl`, `colorama`
 
- 🛠 Установка 
-
-1.  Установите зависимости:
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *(Или вручную: `pip install openpyxl colorama`)*
-
- 🚀 Использование
-
-Запустите скрипт:
-```bash
-*python crypto_domain_scanner.py*
-
-
-
-
-
-
 
 🤝 Вклад в проект Приветствуются: 🐛 Отчёты об ошибках 💡 Предложения по улучшению 🔧 Pull Request'ы с исправлениями 📚 Улучшение документации
 
